@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.6.22)  22 JUN 2018 10:44
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.6.22)  22 JUN 2018 11:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -613,29 +613,29 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip83
 )
-Package hyperref Info: Option `breaklinks' set `true' on input line 67.
-Package hyperref Info: Option `bookmarksopen' set `true' on input line 67.
+Package hyperref Info: Option `breaklinks' set `true' on input line 66.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 66.
 
 (./cv_7.aux)
 \openout1 = `cv_7.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 67.
-LaTeX Font Info:    ... okay on input line 67.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 67.
-LaTeX Font Info:    ... okay on input line 67.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 67.
-LaTeX Font Info:    ... okay on input line 67.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 67.
-LaTeX Font Info:    ... okay on input line 67.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 67.
-LaTeX Font Info:    ... okay on input line 67.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 67.
-LaTeX Font Info:    ... okay on input line 67.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 67.
-LaTeX Font Info:    ... okay on input line 67.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 67.
-LaTeX Font Info:    ... okay on input line 67.
-LaTeX Font Info:    Try loading font information for T1+lmr on input line 67.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Try loading font information for T1+lmr on input line 66.
  (/usr/share/texmf/tex/latex/lm/t1lmr.fd
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
@@ -667,7 +667,7 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-LaTeX Info: Redefining \microtypecontext on input line 67.
+LaTeX Info: Redefining \microtypecontext on input line 66.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -682,7 +682,7 @@ Package microtype Info: No adjustment of character kerning.
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
 )
-LaTeX Font Info:    Try loading font information for T1+lmss on input line 67.
+LaTeX Font Info:    Try loading font information for T1+lmss on input line 66.
 
 (/usr/share/texmf/tex/latex/lm/t1lmss.fd
 File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
@@ -727,7 +727,7 @@ Package microtype Info: Loading generic settings for font family
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 \AtBeginShipoutBox=\box47
-Package hyperref Info: Link coloring OFF on input line 67.
+Package hyperref Info: Link coloring OFF on input line 66.
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 
@@ -736,9 +736,9 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count185
 )
-LaTeX Info: Redefining \ref on input line 67.
-LaTeX Info: Redefining \pageref on input line 67.
-LaTeX Info: Redefining \nameref on input line 67.
+LaTeX Info: Redefining \ref on input line 66.
+LaTeX Info: Redefining \pageref on input line 66.
+LaTeX Info: Redefining \nameref on input line 66.
 
 (./cv_7.out) (./cv_7.out)
 \@outlinefile=\write3
@@ -746,48 +746,48 @@ LaTeX Info: Redefining \nameref on input line 67.
 
 \pagenumberwidth=\skip84
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10.95> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 67.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 66.
 \makecvheadpicturebox=\box48
  <picture.jpg, id=37, 81.6651pt x 101.178pt>
 File: picture.jpg Graphic file (type jpg)
 
 <use picture.jpg>
-Package pdftex.def Info: picture.jpg used on input line 69.
+Package pdftex.def Info: picture.jpg used on input line 68.
 (pdftex.def)             Requested size: 70.0pt x 86.72575pt.
 \makecvheadpicturewidth=\skip85
 \makecvheadnamebox=\box49
 
-Underfull \hbox (badness 10000) in paragraph at lines 69--69
+Underfull \hbox (badness 10000) in paragraph at lines 68--68
 
  []
 
-LaTeX Font Info:    Try loading font information for OT1+lmr on input line 74.
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 73.
 (/usr/share/texmf/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OML+lmm on input line 74.
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 73.
 
 (/usr/share/texmf/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 74.
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 73.
 
 
 (/usr/share/texmf/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMX+lmex on input line 74.
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 73.
 
 
 (/usr/share/texmf/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.95> on input line 74.
+(Font)              <10.95> on input line 73.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 74.
+(Font)              <8> on input line 73.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 74.
+(Font)              <6> on input line 73.
 
 
 LaTeX Font Warning: Font shape `T1/lmss/m/sc' in size <10.95> not available
@@ -797,66 +797,16 @@ Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/lmr/m/sc/10.95'.
 (microtype)             Ignoring protrusion settings for this character.
 
-Underfull \hbox (badness 10000) in paragraph at lines 90--90
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 90--90
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 90--90
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 90--90
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 92--92
-
- []
-
-
-Underfull \hbox (badness 1137) in paragraph at lines 92--92
-\T1/lmss/m/n/10 (+20) Performed and im-proved ETL pro-cess de-vel-op-ing a mult
-i-model ap-proach in-volv-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 92--92
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 92--92
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 92--92
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 92--92
-
- []
-
-
 LaTeX Font Warning: Font shape `U/fontawesometwo/m/sl' undefined
-(Font)              using `U/fontawesometwo/m/n' instead on input line 93.
+(Font)              using `U/fontawesometwo/m/n' instead on input line 110.
 
-LaTeX Font Info:    Try loading font information for OMS+lmr on input line 93.
+LaTeX Font Info:    Try loading font information for OMS+lmr on input line 110.
+
 (/usr/share/texmf/tex/latex/lm/omslmr.fd
 File: omslmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Font shape `OMS/lmr/m/sl' in size <10.95> not available
-(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 93.
+(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 110.
 
 
 Package Fancyhdr Warning: \footskip is too small (30.0pt): 
@@ -867,42 +817,34 @@ Package Fancyhdr Warning: \footskip is too small (30.0pt):
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./picture.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 94--94
+Underfull \hbox (badness 1132) in paragraph at lines 111--111
+[]|\T1/lmss/bx/n/10.95 MySQL/MariaDB, Post-greSQL, Dy-namoDB, Re-dis, Mon-goDB,
+ Druid,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 122--122
+[]|\T1/lmss/bx/n/10.95 Telecommunication en-gi-neer-ing\T1/lmss/m/n/10.95 (+20)
+ , \T1/lmss/m/sl/10.95 Uni-ver-si-tat Politèc-nica de Catalunya\T1/lmss/m/n/10.
+95 (+20) ,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 127--127
+[]|\T1/lmss/bx/n/10.95 Audio Sig-nal Pro-cess-ing for Mu-sic Ap-pli-ca-tions\T1
+/lmss/m/n/10.95 (+20) , \T1/lmss/m/sl/10.95 Cours-era\T1/lmss/m/n/10.95 (+20) ,
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 94--94
-
+Underfull \hbox (badness 10000) in paragraph at lines 129--129
+[]|\T1/lmss/bx/n/10.95 Functional pro-gram-ming prin-ci-ples in Scala\T1/lmss/m
+/n/10.95 (+20) , \T1/lmss/m/sl/10.95 Cours-era\T1/lmss/m/n/10.95 (+20) ,
  []
 
-
-Underfull \hbox (badness 1210) in paragraph at lines 94--94
-\T1/lmss/m/n/10 (+20) Built sev-eral mo-bile ap-pli-ca-tions (An-droid, Phone-G
-ap) in or-der to pop-u-late the
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 94--94
-
- []
-
-
-Underfull \hbox (badness 2293) in paragraph at lines 94--94
-\T1/lmss/m/n/10 (+20) Gathered in-for-ma-tion from a con-nected gym-na-sium thr
-ough RFID de-vices and
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 94--94
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 98--98
-
- []
-
+LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10> not available
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 154.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 191.
 
 Package Fancyhdr Warning: \footskip is too small (30.0pt): 
  Make it at least 51.952pt.
@@ -910,45 +852,10 @@ Package Fancyhdr Warning: \footskip is too small (30.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [2]
-Underfull \hbox (badness 1132) in paragraph at lines 105--105
-[]|\T1/lmss/bx/n/10.95 MySQL/MariaDB, Post-greSQL, Dy-namoDB, Re-dis, Mon-goDB,
- Druid,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 116--116
-[]|\T1/lmss/bx/n/10.95 Telecommunication en-gi-neer-ing\T1/lmss/m/n/10.95 (+20)
- , \T1/lmss/m/sl/10.95 Uni-ver-si-tat Politèc-nica de Catalunya\T1/lmss/m/n/10.
-95 (+20) ,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 121--121
-[]|\T1/lmss/bx/n/10.95 Audio Sig-nal Pro-cess-ing for Mu-sic Ap-pli-ca-tions\T1
-/lmss/m/n/10.95 (+20) , \T1/lmss/m/sl/10.95 Cours-era\T1/lmss/m/n/10.95 (+20) ,
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 123--123
-[]|\T1/lmss/bx/n/10.95 Functional pro-gram-ming prin-ci-ples in Scala\T1/lmss/m
-/n/10.95 (+20) , \T1/lmss/m/sl/10.95 Cours-era\T1/lmss/m/n/10.95 (+20) ,
- []
-
-LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 148.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 185.
-
-Package Fancyhdr Warning: \footskip is too small (30.0pt): 
- Make it at least 51.952pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[3]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 185.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 191.
  (./cv_7.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 185.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 185.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 191.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 191.
 Package rerunfilecheck Info: File `cv_7.out' has not changed.
 (rerunfilecheck)             Checksum: BA573F35AC9B27459594E91F6C1F346B;752.
 
@@ -957,13 +864,13 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 21045 strings out of 493029
- 353544 string characters out of 6136234
- 436628 words of memory out of 5000000
+ 21044 strings out of 493029
+ 353534 string characters out of 6136234
+ 437628 words of memory out of 5000000
  24329 multiletter control sequences out of 15000+600000
  68450 words of font info for 70 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 61i,13n,51p,10356b,434s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 66i,13n,54p,10356b,440s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/share/texlive/texmf-
 dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}{/usr/share/texmf/fonts/enc
 /dvips/lm/lm-ec.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/fontaweso
@@ -973,10 +880,10 @@ are/texmf/fonts/type1/public/lm/lmss10.pfb></usr/share/texmf/fonts/type1/public
 exmf/fonts/type1/public/lm/lmssbx10.pfb></usr/share/texmf/fonts/type1/public/lm
 /lmsso10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsso17.pfb></usr/share/te
 xmf/fonts/type1/public/lm/lmsy10.pfb>
-Output written on cv_7.pdf (3 pages, 218104 bytes).
+Output written on cv_7.pdf (2 pages, 215020 bytes).
 PDF statistics:
- 103 PDF objects out of 1000 (max. 8388607)
- 86 compressed objects within 1 object stream
- 12 named destinations out of 1000 (max. 500000)
+ 97 PDF objects out of 1000 (max. 8388607)
+ 81 compressed objects within 1 object stream
+ 11 named destinations out of 1000 (max. 500000)
  23110 words of extra memory for PDF output out of 24883 (max. 10000000)
 
