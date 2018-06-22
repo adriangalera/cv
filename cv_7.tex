@@ -28,7 +28,6 @@
 \moderncvstyle{casual} % CV theme - options include: 'casual' (default), 'classic', 'oldstyle' and 'banking'
 \moderncvcolor{blue} % CV color - options include: 'blue' (default), 'orange', 'green', 'red', 'purple', 'grey' and 'black'
 
-\usepackage{lipsum} % Used for inserting dummy 'Lorem ipsum' text into the template
 
 \usepackage[scale=0.75]{geometry} % Reduce document margins
 %\setlength{\hintscolumnwidth}{3cm} % Uncomment to change the width of the dates column
@@ -54,9 +53,9 @@
 \mobile{667 093 100}
 %\phone{93 729 04 25}
 \email{adrian.galera.87@gmail.com}
-\email{}
-\homepage{https://www.linkedin.com/in/adriangalera}{https://www.linkedin.com/in/adriangalera} % The first argument is the url for the clickable link, the second argument is the url displayed in the template - this allows special characters to be displayed such as the tilde in this example
-\extrainfo{\weblink{https://www.linkedin.com/in/adriangalera}}
+%\extrainfo{\weblink{https://www.linkedin.com/in/adriangalera}}
+\extrainfo{linkedin.com/in/adriangalera   github.com/adriangalera}
+
 
 
 %\extrainfo{additional information}
@@ -72,8 +71,9 @@
 %----------------------------------------------------------------------------------------
 %	PROFILE SECTION
 %----------------------------------------------------------------------------------------
-\section{Interests}
-Software engineering, Machine Learning, Artificial Intelligence, Mobile Applications, Internet of the Things, Multimedia
+\section{Keywords}
+%Software engineering, Machine Learning, Artificial Intelligence, Mobile Applications, Internet of the Things, Multimedia
+Development, Python, Java, AWS, TDD, Android, IoT, Machine Learning, Multimedia
 
 %----------------------------------------------------------------------------------------
 %	WORK EXPERIENCE SECTION
@@ -82,9 +82,9 @@ Software engineering, Machine Learning, Artificial Intelligence, Mobile Applicat
 \section{Experience}
 
 %\subsection{Profesional}
-\cventry{2017 - Present}{Senior Backend Developer}{\textsc{Sensefields}}{Barcelona}{}{Sensefields is a company that provide mobility solution services going from a Traffic Analytics Tool to a Vehicle Sharing service. As a Senior Backend Developer, my tasks were:\newline{}\newline{}
-Redesign and implementation of the Traffic Analytics Platform. The legacy platform was a Java based monolith that we have broken and turned up into a massively scalable Python serverless solution to be deployed on AWS using services such as: Lambda, ECS, Kinesis and DynamoDB.\newline{}\newline{}
-Development of a vehicle sharing service. Providing an IoT platform to let our customers implement a vehicle sharing service. The platform is able to collect data from the hardware that powers the devices and to interconnect the customers with the vehicles through MQTT technology. The design focuses on deploy the service in the AWS Cloud.\newline{}\newline{}
+\cventry{2017 - Present}{Senior Backend Developer}{\textsc{Sensefields}}{Barcelona}{}{Sensefields is a company that provide mobility solution services going from a Traffic Analytics Tool to a Vehicle Sharing service. As a Senior Backend Developer, my tasks have been:\newline{}\newline{}
+Redesign and implementation of the Traffic Analytics Platform. The legacy platform was a Java based monolith that we have broken and turned up into a massively scalable Python serverless solution deployed on AWS using services such as: Lambda, ECS, Kinesis and DynamoDB. The new platform enable the company to perform analytics tasks easily over the Traffic information and to implement Machine Learning algorithms.\newline{}\newline{}
+Development of an IoT sharing service. Providing an IoT platform to let our customers implement a vehicle sharing service. The platform is able to collect data from the hardware that powers the devices as well as to interconnect the customers with the vehicles through MQTT technology. The design focuses on deploy the service in the AWS Cloud.\newline{}\newline{}
 Both services APIs were implemented using Swagger definitions, so that the implementation of Android Apps and Web UI were straightforward.\newline{}\newline{}
 Implementation of a high performance messaging middleware to support additional use cases for the Traffic Analytics Platform. Its high performance is based on a Akka cluster and the usage of the Actor model.
 }
@@ -93,14 +93,16 @@ Implementation of a high performance messaging middleware to support additional 
 
 \cventry{2012--2013}{Research Developer}{\textsc{Universitat Polit\`{e}cnica de Catalunya}}{Castelldefels}{}{Developer in e-health projects inside BAMPLA workgroup. As a member of the BAMPLA workgroup I have:\newline{}\newline{}Collaborated to develop an IoT backend designed to receive events from multiple devices\newline{}\newline{}Built several mobile applications (Android, PhoneGap) in order to populate the platform with e-health information, such as medication timings\newline{}\newline{}Gathered information from a connected gymnasium through RFID devices and Bluetooth interfaces deployed on a Raspberry Pi\newline{}\newline{}Built a cross platform streaming service using WebRTC and MotionJPEG compression technique}
 
-\cventry{2010 - 2011}{Multimedia developer}{\textsc{UPC-Fundaci\'{o} i2cat}}{Castelldefels}{}{Development of online transcoding system, high performance streaming and image processing}
-
-\cventry{2009 - 2010}{Testing Engineer}{\textsc{UPC-Fundaci\'{o} i2cat}}{Castelldefels}{}{Evaluation of a telepresence system based on Set-Top-Boxes for medical environment}
+\cventry{2008 - 2011}{Internship and Multimedia developer}{\textsc{UPC-Fundaci\'{o} i2cat}}{Castelldefels}{}{Development of online transcoding system, high performance streaming and image processing\newline{}\newline{}
+Evaluation of a telepresence system based on Set-Top-Boxes for medical environment
+}
 
 \section{Technical Skills}
-\subsection{Languages} Java, Python, Android, Javascript, Scala, Groovy, Roku Brighscript, Flash (AS3), C\#, Arduino, C++, C, PHP
-\subsection{Frameworks and Libraries} Undertow.io, Spring Framework, NodeJS, Hibernate, Struts, Jersey, Grails, Apache Kafka, HazelCast, SciKit, Falcon, Apache Kafka, AWS, Google Cloud
-\subsection{Databases} MySQL, MongoDB, Druid, Neo4J
+\cventry{Programming Languages}{Python, Java, Android, Javascript, Scala, PHP}{}{}{}{}
+\cventry{Unit testing}{JUnit, Mockito, Unittest, Mocha, Jenkins}{}{}{}{}
+\cventry{Devops}{Grafana, Docker, Fabric, Boto3}{}{}{}{}
+\cventry{Cloud}{AWS: API Gateway, CloudFront, Cognito, DynamoDB, EC2, ECS, Kinesis, Lambda, S3\newline{}Google Cloud: Compute Engine, Compute Storage\newline{}DigitalOcean: Droplets}{}{}{}{}
+\cventry{Databases}{MySQL/MariaDB, PostgreSQL, DynamoDB, Redis, MongoDB, Druid, Neo4J}{}{}{}{}
 
 %----------------------------------------------------------------------------------------
 %	EDUCATION SECTION
