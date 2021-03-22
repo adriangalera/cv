@@ -23,11 +23,11 @@ Working as a Senior software developer in Ocado Technology, Communication System
 
 ## Specialized in
 
-Software development, Java, Python, TDD, BDD, IoT, AWS, Docker
+Software development, Java, Python, TDD, BDD, IoT, AWS, Docker, CI/CD
 
 ## Experience
 
-`2019 - Present`
+`2019 - Now`
 __Senior Software Engineer__, Ocado technology, Communcation Systems, Barcelona
 
 <ul>
@@ -77,22 +77,38 @@ __Internship and multimedia developer__, UPC-Fundació i2cat, Castelldefels
 
 ## Personal projects
 
-__Dogfeeder__: IoT application written in Python running on a Raspberry Pi to feed my dog. The Pi has a camera, a servomotor and one speaker. It's running on a VPN using Tailscale so I can access the UI and send commands via HTTP API to the Raspberry. I'm able to call my dog, trigger the servomotor that will release one dog candy to him. I put enphasis on having 100% code coverage to force me learning about Python testing and mocking and I've setup a full CI/CD pipeline that generate the executable files for the Pi.
+__Dogfeeder__
+<ul>
+<li>IoT application written in Python and React running on a Raspberry Pi to feed my dog.</li>
+<li>The Pi has a camera, a servomotor and one speaker: I can call my dog and give treats with the servo.</li>
+<li>Running on Tailscale VPN.</li>
+<li>Learn Python testing and mocking.</li>
+<li>Gitlab.com CI/CD pipeline to generate the executable file for Raspberry Pi.</li>
+</ul>
 
-[__estuve.eu__](https://www.estuve.eu/maps): Web application to keep track of all mountains I've climbed. It's some sort of record book for mountaneering. It can be used for anything. It's pretty simple, you can have maps and markers on the maps. I've build it using Golang and on AWS using serverless technology, so it's almost free to run the app 24x7.
+[__estuve.eu__](https://www.estuve.eu/maps)
+<ul>
+<li>Web application to keep track of all mountains I've climbed: it's some sort of record book for mountaneering</li>
+<li>The user can create maps and markers</li>
+<li>Golang and AWS Serverless: Lambda, DynamoDB, S3. Maintenance cost is zero</li>
+<li>BDD both on frontend and backend: godog and cypress</li>
+</ul>
 
-__Smart water__: Arduino based project. It consist on a humidity sensor buried in the soil of my graden connected to an Arduino board. When the humidity reaches some threshold, the Arduino board open up a water pump that waters my garden.
-
+__Smart water__
+<ul>
+<li>Arduino based project.</li>
+<li>humidity sensor buried in the soil of my graden connected to an Arduino board.</li>
+<li>When the humidity reaches some threshold, the Arduino board open up a water pump that waters my garden.</li>
+</ul>
 
 ## Education
 
 ### Formal
 
-`2011`
-__Master Thesis: Benefits of batch provisioning in a PCE-based grid service interconnection network__, Kungliga Tekniska Högskolan (KTH), Stockholm. *With honors*
-
 `2009 - 2011`
 __Master of Science in Telecommunications Engineering and Management__, Universitat Politècnica de Catalunya (UPC), Castelldefels
+
+Master Thesis: Benefits of batch provisioning in a PCE-based grid service interconnection network, Kungliga Tekniska Högskolan (KTH), Stockholm. *With honors*
 
 `2009 - 2011`
 __Telecommunication engineering__, Universitat Politècnica de Catalunya (UPC), Castelldefels
