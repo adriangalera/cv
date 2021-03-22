@@ -19,7 +19,7 @@ adrian.galera.87@gmail.com, (+34) 667093100
 
 ## Currently
 
-Working as a Senior software developer in the Communication Systems team in Ocado technology Barcelona.
+Working as a Senior software developer in Ocado Technology, Communication Systems team located in Barcelona.
 
 ## Specialized in
 
@@ -30,54 +30,50 @@ Software development, Java, Python, TDD, BDD, IoT, AWS, Docker
 `2019 - Present`
 __Senior Software Engineer__, Ocado technology, Communcation Systems, Barcelona
 
-<p class="position-details">Refactor of receipts templating engine to allow retailers configure their templates</p>
-
-<p class="position-details">Allow push notifications communication channel</p>
-
-<p class="position-details">Introduce the usage of localstack in the company: contribution to internal open source framework to support the usage of localstack by any team</p>
-
-<p class="position-details">Job swap during one week in Wroclaw, Poland</p>
+<ul>
+<li>Refactor of receipts templating engine to allow retailers configure their templates.</li>
+<li>Allow push notifications communication channel.</li>
+<li>Introduce the usage of localstack in the company: contribution to internal open source framework to support the usage of localstack by any team.</li>
+<li>Job swap during one week in Wroclaw, Poland.</li>
+</ul>
 
 `2017 - 2019`
 __Senior Software Engineer__, Sensefields, Barcelona
 
-<p class="position-details">Redesign and implementation of the Traffic Analytics Platform: build a massively scalable IoT Python serverless solution deployed on AWS</p>
-
-<p class="position-details">Develop an IoT platform to let our customers implement a vehicle sharing service</p>
-
-<p class="position-details">Implementation of a high performance messaging middleware: its performance is based on a Akka cluster and the usage of the Actor model</p>
+<ul>
+<li>Redesign and implementation of the Traffic Analytics Platform: build a massively scalable IoT Python serverless solution deployed on AWS.</li>
+<li>Develop an IoT platform to let our customers implement a vehicle sharing service.</li>
+<li>Implementation of a high performance messaging middleware: its performance is based on a Akka cluster and the usage of the Actor model.</li>
+</ul>
 
 `2013 - 2017`
 __Java Developer__, NicePeopleAtWork, Barcelona
 
-<p class="position-details">Led the plugin development team</p>
-
-<p class="position-details">Multi-model ETL Process: MySQL, Apache Kafka, Druid and custom based solutions</p>
-
-<p class="position-details">Design and implement a custom data warehouse service to develop Business Inteligence algorithms on top</p>
-
-<p class="position-details">Migrate the previous architecture to a micro services based solution</p>
-
-<p class="position-details">Performed customer in-house integrations in New York, Santa Clara, San Francisco, London and Paris</p>
+<ul>
+<li>Led the plugin development team.</li>
+<li>Multi-model ETL Process: MySQL, Apache Kafka, Druid and custom based solutions.</li>
+<li>Design and implement a custom data warehouse service to develop Business Inteligence algorithms on top.</li>
+<li>Migrate the previous architecture to a micro services based solution.</li>
+<li>Performed customer in-house integrations in New York, Santa Clara, San Francisco, London and Paris.</li>
+</ul>
 
 `2012-2013`
 __Research developer__,  Universitat Politècnica de Catalunya, Castelldefels
 
-<p class="position-details">Collaborated to develop an IoT backend designed to receive events from multiple devices</p>
-
-<p class="position-details">Built several mobile applications (Android, PhoneGap) in order to populate the platform with e-health information, such as medication timings</p>
-
-<p class="position-details">Gathered information from a connected gymnasium through RFID devices and Bluetooth interfaces deployed on a Raspberry Pi</p>
-
-<p class="position-details">Built a cross platform streaming service using WebRTC and MotionJPEG compression technique</p>
+<ul>
+<li>Collaborated to develop an IoT backend designed to receive events from multiple devices.</li>
+<li>Built several mobile applications (Android, PhoneGap) in order to populate the platform with e-health information, such as medication timings.</li>
+<li>Gathered information from a connected gymnasium through RFID devices and Bluetooth interfaces deployed on a Raspberry Pi.</li>
+<li>Built a cross platform streaming service using WebRTC and MotionJPEG compression technique.</li>
+</ul>
 
 
 `2008 - 2011`
 __Internship and multimedia developer__, UPC-Fundació i2cat, Castelldefels
-
-<p class="position-details">Development of online transcoding system, high performance streaming and image processing</p>
-
-<p class="position-details">Evaluation of a telepresence system based on Set-Top-Boxes for medical environment</p>
+<ul>
+<li>Development of online transcoding system, high performance streaming and image processing.</li>
+<li>Evaluation of a telepresence system based on Set-Top-Boxes for medical environment.</li>
+</ul>
 
 
 ## Education
