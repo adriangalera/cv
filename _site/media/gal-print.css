@@ -191,7 +191,9 @@ strong {
 }
 
 li {
-    margin-left: 1.25em;
+    margin-left: 1.25rem;
+	padding-left: 0em;
+    text-indent: 0em;
 }
 
 ul {

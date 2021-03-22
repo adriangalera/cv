@@ -75,6 +75,14 @@ __Internship and multimedia developer__, UPC-Fundació i2cat, Castelldefels
 <li>Evaluation of a telepresence system based on Set-Top-Boxes for medical environment.</li>
 </ul>
 
+## Personal projects
+
+__Dogfeeder__: IoT application written in Python running on a Raspberry Pi to feed my dog. The Pi has a camera, a servomotor and one speaker. It's running on a VPN using Tailscale so I can access the UI and send commands via HTTP API to the Raspberry. I'm able to call my dog, trigger the servomotor that will release one dog candy to him. I put enphasis on having 100% code coverage to force me learning about Python testing and mocking and I've setup a full CI/CD pipeline that generate the executable files for the Pi.
+
+[__estuve.eu__](https://www.estuve.eu/maps): Web application to keep track of all mountains I've climbed. It's some sort of record book for mountaneering. It can be used for anything. It's pretty simple, you can have maps and markers on the maps. I've build it using Golang and on AWS using serverless technology, so it's almost free to run the app 24x7.
+
+__Smart water__: Arduino based project. It consist on a humidity sensor buried in the soil of my graden connected to an Arduino board. When the humidity reaches some threshold, the Arduino board open up a water pump that waters my garden.
+
 
 ## Education
 
@@ -111,8 +119,6 @@ __Telecommunication technical engineering, specialized in Telematics__, Universi
 
 `2012`
 Circuits and electronics, MITx
-
-
 
 ## Languages
 
