@@ -3,7 +3,7 @@ layout: cv
 title: Adrian Galera
 ---
 # Adrian Galera
-Senior software developer, Ocado technology
+Polyglot Staff software engineer, Ocado technology
 
 <p>
 adrian.galera.87@gmail.com, (+34) 667093100
@@ -16,23 +16,26 @@ adrian.galera.87@gmail.com, (+34) 667093100
 <i class="fab fa-linkedin"><span>&nbsp;<a target="_blank" href="https://www.linkedin.com/in/adriangalera/">linkedin.com/in/adriangalera/</a></span></i>
 </div>
 
+## Experienced in
 
-## Currently
+Building scalable backend applications in multiple languages: Java, Python or Golang.
 
-Working as a Senior software developer in the Communication Systems team in Ocado technology Barcelona.
+Develop, deploy and maintain such applications on-premise and in AWS cloud
 
-## Specialized in
-
-Software development, Java, Python, TDD, BDD, IoT, AWS, Docker
+Getting hands-on in improving the processes of the team and beyond
 
 ## Experience
 
 `2019 - Present`
-__Senior Software Engineer__, Ocado technology, Communcation Systems, Barcelona
+__Staff Software Engineer__, Ocado technology, Communcation Systems, Barcelona
+
+<p class="position-details">Create an ecosystem of support tools inside and outside the team</p>
+
+<p class="position-details">Manage massive re-organization of notifications workflow</p>
 
 <p class="position-details">Refactor of receipts templating engine to allow retailers configure their templates</p>
 
-<p class="position-details">Allow push notifications communication channel</p>
+<p class="position-details">Enable push notifications communication channel</p>
 
 <p class="position-details">Introduce the usage of localstack in the company: contribution to internal open source framework to support the usage of localstack by any team</p>
 
