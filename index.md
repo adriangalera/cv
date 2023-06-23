@@ -3,7 +3,7 @@ layout: cv
 title: Adrian Galera
 ---
 # Adrian Galera
-Senior software developer, Ocado technology
+Polyglot staff software engineer, Ocado technology
 
 <p>
 adrian.galera.87@gmail.com, (+34) 667093100
@@ -16,29 +16,35 @@ adrian.galera.87@gmail.com, (+34) 667093100
 <i class="fab fa-linkedin"><span>&nbsp;<a target="_blank" href="https://www.linkedin.com/in/adriangalera/">linkedin.com/in/adriangalera/</a></span></i>
 </div>
 
-
-## Currently
-
-Working as a Senior software developer in Ocado Technology, Communication Systems team located in Barcelona.
-
 ## Specialized in
+<ul>
+<li>All things backend: involved in all Software Development Lifecycle following the principle of "You build it, you run it".</li>
 
-Software development, Java, Python, TDD, BDD, IoT, AWS, Docker, CI/CD
+<li>Getting hands-on in improving the processes of the team and beyond.</li>
 
+<li>Backend languages such as Java, Python and Golang.</li>
+
+<li>Multiple industries: ecommerce, media, smart cities/IoT.</li>
+
+<li>Building on-premise and on AWS.</li>
+</ul>
 ## Experience
 
 `2019 - Now`
-__Senior Software Engineer__, Ocado technology, Communcation Systems, Barcelona
+__Staff Software Engineer__, <a href="https://www.ocadogroup.com/technology/technology-pioneers/">Ocado technology</a>
 
 <ul>
-<li>Refactor of receipts templating engine to allow retailers configure their templates.</li>
-<li>Allow push notifications communication channel.</li>
-<li>Introduce the usage of localstack in the company: contribution to internal open source framework to support the usage of localstack by any team.</li>
+<li>Fostering a culture of automated testing, observability and collaboration.</li>
+<li>Support and develop multiple core ecommerce services: communications, receipts and marketing preferences.</li>
+<li>Participation in many handovers, re-orgs and refactorings successfully.</li>
+<li>Production of multiple internal support tools used widely in the company inside the team and outside.</li>
+<li>Introduce the usage of localstack: contribution to internal open source framework to support the usage of localstack by any team.</li>
 <li>Job swap during one week in Wroclaw, Poland.</li>
+<li>Involvement in recruiting activies.</li>
 </ul>
 
 `2017 - 2019`
-__Senior Software Engineer__, Sensefields, Barcelona
+__Senior Software Engineer__, <a href="https://www.linkedin.com/company/sensefields/">Sensefields</a>
 
 <ul>
 <li>Redesign and implementation of the Traffic Analytics Platform: build a massively scalable IoT Python serverless solution deployed on AWS.</li>
@@ -47,18 +53,17 @@ __Senior Software Engineer__, Sensefields, Barcelona
 </ul>
 
 `2013 - 2017`
-__Java Developer__, NicePeopleAtWork, Barcelona
+__Java Developer__, <a href="https://npaw.com/">NicePeopleAtWork</a>
 
 <ul>
 <li>Led the plugin development team.</li>
 <li>Multi-model ETL Process: MySQL, Apache Kafka, Druid and custom based solutions.</li>
 <li>Design and implement a custom data warehouse service to develop Business Inteligence algorithms on top.</li>
-<li>Migrate the previous architecture to a micro services based solution.</li>
 <li>Performed customer in-house integrations in New York, Santa Clara, San Francisco, London and Paris.</li>
 </ul>
 
 `2012-2013`
-__Research developer__,  Universitat Politècnica de Catalunya, Castelldefels
+__Research developer__,  <a href="https://recerca.upc.edu/bampla/en">Universitat Politècnica de Catalunya</a>
 
 <ul>
 <li>Collaborated to develop an IoT backend designed to receive events from multiple devices.</li>
@@ -69,7 +74,7 @@ __Research developer__,  Universitat Politècnica de Catalunya, Castelldefels
 
 
 `2008 - 2011`
-__Internship and multimedia developer__, UPC-Fundació i2cat, Castelldefels
+__Internship and multimedia developer__, <a href="https://i2cat.net/">i2cat</a>
 <ul>
 <li>Development of online transcoding system, high performance streaming and image processing.</li>
 <li>Evaluation of a telepresence system based on Set-Top-Boxes for medical environment.</li>
@@ -77,13 +82,22 @@ __Internship and multimedia developer__, UPC-Fundació i2cat, Castelldefels
 
 ## Personal projects
 
+__Galitas Direkt__
+<ul>
+<li>Golang application running in a Raspberry Pi to act as a intrusion detection system.</li>
+<li>The Pi has a camera, door sensor and motion detection capabilities.</li>
+<li>Integrated with telegram.</li>
+<li>The project was really useful to help me master my golang knowledge</li>
+</ul>
+
 __Dogfeeder__
 <ul>
-<li>IoT application written in Python and React running on a Raspberry Pi to feed my dog.</li>
+<li>Application written in Python and React running on a Raspberry Pi to feed my dog.</li>
 <li>The Pi has a camera, a servomotor and one speaker: I can call my dog and give treats with the servo.</li>
 <li>Running on Tailscale VPN.</li>
-<li>Learn Python testing and mocking.</li>
+<li>Learn a lot about Python testing and mocking.</li>
 <li>Gitlab.com CI/CD pipeline to generate the executable file for Raspberry Pi.</li>
+<li>Contains a Machine learning model to <a href="https://www.agalera.eu/bark-detector/">detect barks</a></li>
 </ul>
 
 [__estuve.eu__](https://www.estuve.eu/maps)
