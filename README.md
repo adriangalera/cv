@@ -1,65 +1,96 @@
-# markdown-cv
+# resume-html
+**Generate beautiful Résumés using HTML and CSS.** 
 
-A curriculum vitae maintained in plain text and rendered to HTML and PDF using CSS.
+## Usage
 
-For more details, see the [project page](http://elipapa.github.io/markdown-cv), or the blog post on [why I switched to markdown for my CV](http://elipapa.github.io/blog/why-i-switched-to-markdown-for-my-cv.html).
+1. **Prerequisites**: You need to install [node.js](https://nodejs.org/en/download/) and [npm](https://www.npmjs.com/get-npm) (included in node installer).
+1. Clone the repository.
 
-***
+   ```
+   git clone https://github.com/t4nuj/resume-html.git
+   ```
+1. Install dependencies
 
-## Customization
+   ```
+   npm install
+   ```
+   Note: Chromium (~108 MB) is a dependency for using puppeteer, and rendering the Résumé PDF.
+1. View the Résumé in browser.
 
-Simply [fork the markdown-cv repo](https://github.com/elipapa/markdown-cv)
+   ```
+   node view-resume.js
+   ```
+1. Edit your Résumé
 
-![](https://help.github.com/assets/images/help/repository/fork_button.jpg)
+   Structure of the repo:
+   ```
+   .
+   ├── content
+   │   ├── achievements.html
+   │   ├── education.html
+   │   ├── experience.html
+   │   ├── page.html
+   │   ├── projects.html
+   │   ├── publications.html
+   │   └── skills.html
+   ├── css
+   │   ├── paper.css
+   │   └── resume.css
+   ├── generate-resume-pdf.js
+   ├── index.html
+   ├── js
+   │   └── load-resume.js
+   ├── package-lock.json
+   ├── package.json
+   ├── resume.pdf
+   └── view-resume.js
+   ```
 
-and edit the `index.md` file [directly in Github](https://help.github.com/articles/editing-files-in-your-repository/)
+   * All the styles resides in `resume.css` file.
+   * The `content` directory has various sections and the main `page.html`.
+   * `load-resume.js` is responsible for loading the `page.html` file and all the sections. You can play around with the order of the sections using this file.
 
-![](https://help.github.com/assets/images/help/repository/edit-file-edit-button.png)
+1. Once you are happy with it generate a PDF (output in `resume.pdf`)
 
-adding your skills, jobs and education.
+   ```
+   node generate-resume-pdf.js
+   ```
+1. Check out a 1-column format in the examples directory. You can view it by pointing to `http://localhost:8000/examples/1-column`
 
-![](https://help.github.com/assets/images/help/repository/edit-readme-light.png)
 
-## Distribution
 
-To transform your plain text CV into a beautiful and shareable HTML page, you have two options:
+ [2 Column](https://github.com/t4nuj/resume-html/blob/master/resume.pdf) |   [1 Column](https://github.com/t4nuj/resume-html/blob/master/examples/1-column/1-column-resume.pdf)
+--- | ---
+![2-Column Style](https://raw.githubusercontent.com/t4nuj/resume-html/master/examples/2-column.png) | ![2-Column Style](https://raw.githubusercontent.com/t4nuj/resume-html/master/examples/1-column.png)
 
-### I. Use Github Pages to publish it online
+Generally, you'll be able utilize space better and fit in more content using a 2 column format.
 
-1. Delete the existing `gh-pages` branch from your fork. It will only contain this webpage. You can either use git or [the Github web interface](https://help.github.com/articles/creating-and-deleting-branches-within-your-repository/#deleting-a-branch).
-2. Create a new branch called `gh-pages`.
-3. Head to *yourusername*.github.io/markdown-cv to see your CV live.
+## Credits
+* The theme of the resume is inspired by the [Awesome-CV](https://github.com/posquit0/Awesome-CV) template.
+* Uses [font-awesome](https://fontawesome.com/) for the info section icons.
+* Uses Google's [Roboto](https://fonts.google.com/specimen/Roboto) fonts.
 
-Any change you want to make to your CV from then on would have to be done on the `gh-pages` branch and will be immediately rendered by Github Pages.
+## Motivation for making this Repository
+All the CS nerds (including me) were using LaTeX to generate their Résumés. It had its benefits: 
 
-### II. Build it locally and print a PDF
+* It has the best in class line-breaking algorithm (developed by Donald Knuth himself).
+* You can keep sections in separate files.
+* You can separate out your content from formatting,
+* and also use version control for your resume. 
 
-1. To [install jekyll](https://jekyllrb.com/docs/installation/), run `gem install bundler jekyll` from the command line.
-3. [Clone](https://help.github.com/en/articles/cloning-a-repository) your fork of markdown-cv to your local machine.
-3. Type `jekyll serve` to render your CV at http://localhost:4000.
-4. You can edit the `index.md` file and see the changes live in your browser.
-5. To print a PDF, press <kbd>⌘</kbd> + <kbd>p</kbd>. Print and web CSS media queries should take care of the styling.
+One day, I decided to modify the [Awesome-CV](https://github.com/posquit0/Awesome-CV) template into a 2-column format, but I found no way of doing it in LaTeX which would give me as much flexibility as using CSS+HTML.  
 
-## Styling
+Hence, I hacked together this repo.
 
-The included CSS will render your CV in two styles:
-s
-1. `kjhealy` the original default, inspired by [kjhealy's vita
-template](https://github.com/kjhealy/kjh-vita).
-2. `davewhipp` is a tweaked version of `kjhealy`, with bigger fonts and dates
-  right aligned.
+Also, I had not clue what `Underfull \hbox (badness 10000)` meant.
 
-To change the default style, simply change the variable in the
-`_config.yml` file.
+Using web technologies does not mean you need to let go of the good things about using a LaTeX managed Resume:
 
-Any other styling is possible. More CSS style contributions and forks are welcome!
+* You can still use version control with HTML+CSS.
+* You can divide your content into sections using a little JS magic.
+* CSS *means* that content is separate from formatting.
+* You may not get the best in class line-breaking algorithm, but it will be good enough.
 
-### Author
+Happy hacking!
 
-Eliseo Papa ([Twitter](http://twitter.com/elipapa)/[Github](http://github.com/elipapa)/[Website](https://elipapa.github.io)).
 
-![Eliseo Papa](https://s.gravatar.com/avatar/eae1f0c01afda2bed9ce9cb88f6873f6?s=100)
-
-### License
-
-[MIT License](https://github.com/elipapa/markdown-cv/blob/master/LICENSE)
