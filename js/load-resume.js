@@ -4,12 +4,12 @@ if(window.location.href.includes('pdf') === true) {
 }
 
 var sectionList = [
-	{ loc: './content/experience.html', col: 'first-col'},
 	//{ loc: './content/projects.html', col: 'second-col'},
 	{ loc: './content/education.html', col: 'first-col'},
 	//{ loc: './content/publications.html', col: 'second-col'},
 	//{ loc: './content/achievements.html', col: 'second-col'},
-	{ loc: './content/skills.html', col: 'first-col'}
+	{ loc: './content/skills.html', col: 'first-col'},
+	{ loc: './content/experience.html', col: 'second-col'},
 ]
 
 fetch('./content/page.html')

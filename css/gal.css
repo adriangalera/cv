@@ -1,0 +1,19 @@
+.w70 {
+    width: 70%;
+}
+
+.w30 {
+    width: 30%;
+}
+
+.fl {
+    float: left;
+}
+
+.fr {
+    float: right;
+}
+
+.inline-fit-content {
+    inline-size: fit-content;
+}
