@@ -4,5 +4,5 @@ install:
 serve:
 	node view-resume.js
 
-build-pdf:
+build:
 	node generate-resume-pdf.js
